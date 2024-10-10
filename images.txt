@@ -1,2 +1,13 @@
-gitlab/gitlab-ce:17.3.5-ce.0
 gitlab/gitlab-ce:17.4.2-ce.0
+sameersbn/postgresql:latest
+sameersbn/redis:latest
+
+6053537/portainer-ce:2.19.5
+
+apache/rocketmq:4.9.2
+emqx/emqx:5.8.0
+
+mysql:8.0.31
+mcr.microsoft.com/mssql/server:2017-latest
+mongo:latest
+
